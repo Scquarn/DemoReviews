@@ -38,9 +38,6 @@ importers:
       '@angular/router':
         specifier: ^18.0.0
         version: 18.1.1(@angular/common@18.1.1(@angular/core@18.1.1(rxjs@7.8.1)(zone.js@0.14.8))(rxjs@7.8.1))(@angular/core@18.1.1(rxjs@7.8.1)(zone.js@0.14.8))(@angular/platform-browser@18.1.1(@angular/animations@18.1.1(@angular/core@18.1.1(rxjs@7.8.1)(zone.js@0.14.8)))(@angular/common@18.1.1(@angular/core@18.1.1(rxjs@7.8.1)(zone.js@0.14.8))(rxjs@7.8.1))(@angular/core@18.1.1(rxjs@7.8.1)(zone.js@0.14.8)))(rxjs@7.8.1)
-      '@types/karma-jasmine':
-        specifier: ^4.0.5
-        version: 4.0.5
       rxjs:
         specifier: ~7.8.0
         version: 7.8.1
@@ -63,6 +60,9 @@ importers:
       '@types/jasmine':
         specifier: ~5.1.4
         version: 5.1.4
+      '@types/karma-jasmine':
+        specifier: ^4.0.5
+        version: 4.0.5
       jasmine-core:
         specifier: ~5.1.0
         version: 5.1.2
