@@ -6,7 +6,6 @@
     "start": "ng serve",
     "build": "ng build",
     "ghpages": "ng build --base-href 'https://scquarn.github.io/DemoReviews/'",
-    "deploy_kaputt": "pnpm exec angular-cli-ghpages --dir=dist/demo-reviews",
     "ghpages_deploy": "ng deploy --repo=https://github.com/Scquarn/DemoReviews --base-href=/DemoReviews/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"

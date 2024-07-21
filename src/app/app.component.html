@@ -4,13 +4,25 @@
   <mat-drawer mode="side" [opened]="this.showMenu" class="menu-content">
     <h3>2024</h3>
     <mat-nav-list class="nav-list-container">
-      <a mat-list-item href="2024_june" class="navigation-item">
+      <a
+        mat-list-item
+        (click)="this.showEntry('/2024_june')"
+        class="navigation-item"
+      >
         June - Next Fest
       </a>
-      <a mat-list-item href="2024_july" class="navigation-item">
+      <a
+        mat-list-item
+        (click)="this.showEntry('/2024_july')"
+        class="navigation-item"
+      >
         July - Tacticon
       </a>
     </mat-nav-list>
   </mat-drawer>
-  <mat-drawer-content><router-outlet></router-outlet></mat-drawer-content>
+  <mat-drawer-content>
+    <div (click)="this.showMenu = false" class="hide-menu-container">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-drawer-content>
 </mat-drawer-container>
