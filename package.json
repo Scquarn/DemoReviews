@@ -5,6 +5,9 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "ghpages": "ng build --base-href 'https://scquarn.github.io/DemoReviews/'",
+    "deploy_kaputt": "pnpm exec angular-cli-ghpages --dir=dist/demo-reviews",
+    "ghpages_deploy": "ng deploy --repo=https://github.com/Scquarn/DemoReviews --base-href=/DemoReviews/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
@@ -30,6 +33,7 @@
     "@angular/compiler-cli": "^18.0.0",
     "@types/jasmine": "~5.1.4",
     "@types/karma-jasmine": "^4.0.5",
+    "angular-cli-ghpages": "^2.0.1",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
