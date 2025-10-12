@@ -1,0 +1,16 @@
+<div>
+  @if(showDialog){
+  <div class="bubble bubble-bottom-left bubble-container">
+    {{ getDialogLine() }}
+  </div>
+  }
+  <img
+    id="flower"
+    (click)="triggerDialog()"
+    class="flower"
+    src="https://i.imgur.com/F4srzqU.png"
+    height="128"
+    style="position: fixed; right: 24px; bottom: -22px"
+    [class.pointer]="!dialogFinished"
+  />
+</div>
