@@ -1,16 +1,17 @@
-<div>
-  @if(showDialog){
-  <div class="bubble bubble-bottom-left bubble-container">
-    {{ getDialogLine() }}
-  </div>
+<div class="flower-container">
+  <ng-content />
+  @if (showDialog) {
+    <div
+      class="bubble bubble-bottom-left bubble-container"
+      [innerHTML]="getDialogLine()"
+    ></div>
   }
   <img
     id="flower"
-    (click)="triggerDialog()"
     class="flower"
+    (click)="triggerDialog()"
     src="https://i.imgur.com/F4srzqU.png"
     height="128"
-    style="position: fixed; right: 24px; bottom: -22px"
     [class.pointer]="!dialogFinished"
   />
 </div>

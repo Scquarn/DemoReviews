@@ -5,44 +5,50 @@
   width: 100%;
 }
 
-.flower {
-  height: 128px;
-  position: fixed; 
-  right: 24px; 
-  bottom: -20px;
+.flower-container {
+  position: relative;
+  overflow: hidden;
+
+  .flower{
+    position: absolute;
+    right: 10px;
+    bottom: -20px;
+  }
+
+  .bubble {
+    position: relative;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    background: #fff;
+    border-radius: 40px;
+    padding: 24px;
+    text-align: center;
+    color: #000;
+    min-width: 40px;
+  }
+
+  .bubble-bottom-left:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-right: 24px solid #fff;
+    border-left: 12px solid transparent;
+    border-top: 12px solid #fff;
+    border-bottom: 20px solid transparent;
+    right: 32px;
+    bottom: -24px;
+  }
+
+  .bubble-container {
+    position: absolute; 
+    right: 24px; 
+    bottom: 140px;
+  }
 }
 
 .pointer {
   cursor: pointer;
 }
 
-.bubble {
-  position: relative;
-  font-family: sans-serif;
-  font-size: 18px;
-  line-height: 24px;
-  background: #fff;
-  border-radius: 40px;
-  padding: 24px;
-  text-align: center;
-  color: #000;
-}
-
-.bubble-bottom-left:before {
-  content: "";
-  width: 0px;
-  height: 0px;
-  position: absolute;
-  border-right: 24px solid #fff;
-  border-left: 12px solid transparent;
-  border-top: 12px solid #fff;
-  border-bottom: 20px solid transparent;
-  right: 32px;
-  bottom: -24px;
-}
-
-.bubble-container {
-  position: fixed; 
-  right: 36px; 
-  bottom: 140px;
-}

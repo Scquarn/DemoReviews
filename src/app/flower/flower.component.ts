@@ -17,7 +17,7 @@ export class FlowerComponent {
   constructor() {
     document.addEventListener("click", (event) => {
       var flower = document.getElementById("flower");
-      if (event.target !== flower) {
+      if (event.target !== flower && this.showDialog) {
         this.hideDialog();
       }
     });
