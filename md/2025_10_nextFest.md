@@ -1,96 +1,34 @@
 # October - Next Fest
 
-Welcome dear readers to the next fest and let's also welcome our honored guest star for this round.
-The one and only SCYLLA.
-But most of all, welcome <strong>YOU</strong> in particular.
+Welcome dear readers to the next fest and let's also welcome our honored guest star for this round. The one and only Scylla. A pearl of the sea. But most of all, welcome to <strong>YOU</strong> in particular.
 <br>
-Scream.
-Shout.
-Cry.
-<br>
-Be free of everything that is a prison to you.
-Let's sing freely.
-Don't let rules cage you.
-Don't let norms bind you.
-Don't behave in automatic patterns.
-Don't just be.
+Scream, shout or cry. It doesn't matter. Be free of everything that is a prison to you. Let's sing freely. Don't let rules cage you. Don't let norms bind you. Don't behave like you always do. Don't just be.
 <br>
 Become more.
 <br>
-Escape reality for a moment by creating something.
-Form the known and normal into the new.
-Make something that expands the world.
-An active change by you that makes the world a tiny bit larger.
-Creation.
-Whatever it may be.
-Writing.
-Drawing.
-Dialogue.
-Emotions.
-Thoughts.
-All of it is viable.
-Nothing is off limit.
+Escape reality for a moment by creating. Take the known and normal and shape it into the new. Make and addition that expands the world from what it was. Extend it through an active change that makes the world a tiny bit larger. Create, whatever it may be. Writing, drawing, dialogue, emotions, thoughts, no matter what it is. All of it is viable. Nothing is off limit.
 <br>
-But don't just be.
-No more.
-It's enough.
-You can do more.
-Act with intention to create.
-Think new thoughts you haven't before.
-The intention behind it all is the point.
+What matters is to not just be. No more I say. I scream. It's finally enough. You can do more. Act with the intention to create. Try new arts. Spin new threads. Think new thoughts. Anything you haven't done before. The intention behind it all is the point.
 <br>
-This is my plead for you to be active.
-Hear me for I will no longer accept being passive.
-Never again.
-My brain can't stand it any more.
-It hurts.
-It pains.
-It screams.
+This is my plead for you to be active. Hear me, for I will no longer accept being passive. Never again. My brain can't stand it any more. Not creating hurts. It pains, makes my fibers scream. I can't stand it.
 <br>
-And you too.
-Create something on your own.
-Show it to me if it is physical.
-If it exists in the material world.
-That thing you made.
-That object.
-That text.
-That song.
-That feeling.
-That emotion.
-Anything.
-I beg of you.
-Don't just be, create.
+And you too. Be infected by me. Create something on your own. Show it to me if it has physical form and exists in the material world. Show me that thing you made. That object. That text. That song. That feeling. That emotion. Anything. Hear me, I beg of you. Don't just be, create.
 <br>
-I'm here and I'll wait for yours.
-This is one creation of mine.
-But I have many.
+I'll be waiting for your creation. This here is one of mine, but I have many. I'm already many steps ahead of you.
 <br>
-And this next fest also includes many games.
-Eighty demos in total and in an all new format.
-Distilled into greatness.
-Polished like a mirror.
-An insight into the creations of game devs.
-The work of people who refuse to sit by.
-Who also stopped being passive.
-Who decided to create.
-To make something.
-No matter how awful.
-No matter how great.
-They did more than most and are not to be made fun off.
-They created.
-And while my creation might mock them, it's in good faith.
+As are the devs from this next fest. I got many games in here from people who said enough is enough. They all heard the call of creation. A pull they couldn't resist. A siren's song luring them in. Can you hear it too?
 <br>
-Enjoy the show.
+I hope you enjoy the show.
 
 Tl;dr at the bottom as always.
 
 ## Demos
 
-Next fest is already over and you are standing there alone and lost. Out in the rain. Asking where the demo reviews are at. Like some drug addict wanting to shoot up after a painfully long break which made reality creep back into your brain for but a split second.
+Next fest is already over and you are standing there. All alone, lost and out in the rain. "Where are the demos at?", you ask, you plead, you beg. Like a drug addict searching for their dealer to shoot up. To advert their eyes from reality and to embrace another trip of goodness to forget it all. The gray of reality can be quite scary. It creeps back into your brain all too quickly if you allow it to.
 <br>
-But I got you. All new format. All new demos. It might taste different at first but know it's the bomb. Like blue meth. Ready to be injected straight into your veins. Straight into your trembling brain.
+But I got you. All new format. All new demos. Distilled into greatness and polished like a mirror. It might taste different at first, but know this: It's the bomb. Like blue meth. Ready to be injected straight into your veins and make you forget.
 <br>
-But try not to use it all up at once, okay?
+But listen up buddy. Try not to use it all up at once, okay?
 
 ### 1
 
@@ -1836,19 +1774,19 @@ PS: It kinda is a forsen plays league simulator.
 
 ## TL;DR
 
-So many games there will certainly be something for everyone in here. Some of my personal highlights this time around were these:
+With this many games there will certainly be something in here for everyone. Some of my personal highlights this time around were:
 
-- Teamfight Manager 2, manage your own MOBA team to success
-- Final Sentence, type faster than everyone else in this battle typer royale
-- Checkmage, perfect mix of chess and fun mechanics
-- KORRIDOR, there is a corridor and demons to be killed, get to it
-- Constance, beautiful metroidvania that reminds me of silksong
-- Rubinite, a boss rush with amazing style
-- Arc Raiders, an extraction shooter that's worth checking out for once?
-- Q-UP, the future of e-sports, don't miss it
+- **Teamfight Manager 2**, manage your own MOBA team to success
+- **Final Sentence**, type faster than everyone else in this battle typer royale
+- **Checkmage**, perfect mix of chess and fun mechanics
+- **KORRIDOR**, there is a corridor and demons to be killed, get to it
+- **Constance**, beautiful metroidvania that reminds me of silksong
+- **Rubinite**, a boss rush with amazing style
+- **Arc Raiders**, an extraction shooter that's worth checking out for once?
+- **Q-UP**, the future of e-sports, don't miss it
 
-Honorable mentions this time around were, deepest well, skull horde and night swarm. They might turn out great but still need a bit of work before they can be released.
+Honorable mentions of this next fest were, **Deepest Well**, **Skull Horde** and **Night Swarm**. They might turn out great, but still need a bit of work before they could be released.
 
-This next fest was great fun for me and I hope I could show you some interesting new games or at least you had fun reading this.
+This next fest was great fun for me and I hope I could show you some interesting new games or at least you had fun reading this ramble.
 
 Cheers your local madman.
