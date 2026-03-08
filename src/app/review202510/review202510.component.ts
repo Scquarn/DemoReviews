@@ -161,4 +161,10 @@ export class Review202510Component {
     "Little human beyond the veil.",
     "...",
   ];
+
+  test() {
+    window.open(
+      "https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/"
+    );
+  }
 }

@@ -5,3 +5,13 @@
 .menu-icon {
   margin-right: 16px;
 }
+
+mat-slider {
+  width: 200px;
+}
+
+@media screen and (max-width: 800px) {
+  .hide-slider {
+    display: none;
+  }
+}

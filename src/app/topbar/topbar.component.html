@@ -8,4 +8,19 @@
   </button>
   <span>Einglas Reviews</span>
   <span class="topbar-spacer"></span>
+  <mat-slider
+    class="hide-slider"
+    max="40"
+    min="5"
+    step="5"
+    [discrete]="false"
+    [showTickMarks]="true"
+  >
+    <input
+      matSliderThumb
+      [(ngModel)]="value"
+      #slider
+      (click)="this.changeMargin(value)"
+    />
+  </mat-slider>
 </mat-toolbar>
