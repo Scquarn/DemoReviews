@@ -26,8 +26,8 @@ Tl;dr at the bottom as always.
 
 ## Demos
 
-Next Fest was in February and once more you are standing there. Crying like a kid waiting for it's parents. Did he forget to do it this time? Did he abandon this project? These thoughts and more like them take over your brain.
-And it's true. A day may come when I will stop doing demo reviews and stop writing these things, but it is not this day.  
+Next Fest was in February and once more you are standing there. Crying like a kid waiting for its parents. Did I forget to do the review this time? Did I abandon this project? These thoughts and more like them slowly take over your brain.
+And it is true. A day may come when I will stop doing demo reviews and won't write these things anymore, but it is not this day.  
 Same new format, new demos, new layout. The new nuggets of human creativity condensed into a single, easy to digest format.  
 This time there were some amazing games. So many times I kept playing because the games were simply fun. I hope you will check out some of these games from the best Next Fest yet.
 
