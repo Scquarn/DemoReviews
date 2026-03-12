@@ -1,5 +1,5 @@
 import { Component, inject } from "@angular/core";
-import { MarginService } from "../services/MarginService";
+import { PaddingService } from "../services/PaddingService";
 
 @Component({
   selector: "app-review202506",
@@ -9,5 +9,5 @@ import { MarginService } from "../services/MarginService";
   styleUrl: "./review202506.component.scss",
 })
 export class Review202506Component {
-  protected readonly marginService = inject(MarginService);
+  protected readonly paddingService = inject(PaddingService);
 }

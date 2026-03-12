@@ -1,7 +1,7 @@
 import { Component, inject } from "@angular/core";
 import { min } from "rxjs";
 import { FlowerComponent } from "../flower/flower.component";
-import { MarginService } from "../services/MarginService";
+import { PaddingService } from "../services/PaddingService";
 
 @Component({
   selector: "app-review202510",
@@ -11,7 +11,7 @@ import { MarginService } from "../services/MarginService";
   styleUrl: "./review202510.component.scss",
 })
 export class Review202510Component {
-  protected readonly marginService = inject(MarginService);
+  protected readonly paddingService = inject(PaddingService);
 
   protected readonly dialogLines = [
     "...",

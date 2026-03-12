@@ -1,5 +1,5 @@
 import { Component, inject } from "@angular/core";
-import { MarginService } from "../services/MarginService";
+import { PaddingService } from "../services/PaddingService";
 
 @Component({
   selector: "app-review202406",
@@ -9,7 +9,7 @@ import { MarginService } from "../services/MarginService";
   styleUrl: "./review202406.component.scss",
 })
 export class Review202406Component {
-  protected readonly marginService = inject(MarginService);
+  protected readonly paddingService = inject(PaddingService);
 
   openLink(url: string) {
     window.open(url, "_blank");

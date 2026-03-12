@@ -4,21 +4,20 @@ import {
   HostListener,
   inject,
 } from "@angular/core";
-import { MarginService } from "../services/MarginService";
+import { PaddingService } from "../services/PaddingService";
 import { MatIconModule } from "@angular/material/icon";
 import { MatButtonModule } from "@angular/material/button";
-import { Router, RouterLink, RouterModule, UrlTree } from "@angular/router";
-import { ViewportScroller } from "@angular/common";
+import { Router, RouterModule, UrlTree } from "@angular/router";
 
 @Component({
   selector: "app-review202602",
   standalone: true,
-  imports: [MatIconModule, MatButtonModule, RouterLink, RouterModule],
+  imports: [MatIconModule, MatButtonModule, RouterModule],
   templateUrl: "./review202602.component.html",
   styleUrl: "./review202602.component.scss",
 })
 export class Review202602Component {
-  protected readonly marginService = inject(MarginService);
+  protected readonly paddingService = inject(PaddingService);
   private readonly router = inject(Router);
   private readonly changeDetectorRef = inject(ChangeDetectorRef);
 

@@ -5,7 +5,7 @@ import { MatToolbarModule } from "@angular/material/toolbar";
 import { MatSliderModule } from "@angular/material/slider";
 import { FormsModule } from "@angular/forms";
 import { MatInputModule } from "@angular/material/input";
-import { MarginService } from "../services/MarginService";
+import { PaddingService } from "../services/PaddingService";
 
 @Component({
   selector: "app-topbar",
@@ -23,16 +23,16 @@ import { MarginService } from "../services/MarginService";
 })
 export class TopbarComponent {
   menuButtonClicked = output();
-  marginSliderClicked = output<number>();
+  paddingSliderClicked = output<number>();
   value = 30;
 
-  private readonly marginService = inject(MarginService);
+  private readonly paddingService = inject(PaddingService);
 
   constructor() {
-    this.marginService.margin = this.value;
+    this.paddingService.padding = this.value;
   }
 
-  protected changeMargin(value: number) {
-    this.marginService.margin = value;
+  protected changePadding(value: number) {
+    this.paddingService.padding = value;
   }
 }
