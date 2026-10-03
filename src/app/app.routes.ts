@@ -7,8 +7,10 @@ import { Review202502Component } from "./review202502/review202502.component";
 import { Review202506Component } from "./review202506/review202506.component";
 import { Review202510Component } from "./review202510/review202510.component";
 import { Review202602Component } from "./review202602/review202602.component";
+import { Review202606 } from "./review202606/review202606";
 
 export const routes: Routes = [
+  { path: "2026_june", component: Review202606 },
   { path: "2026_february", component: Review202602Component },
   { path: "2025_october", component: Review202510Component },
   { path: "2025_june", component: Review202506Component },
@@ -17,5 +19,5 @@ export const routes: Routes = [
   { path: "2024_july_2", component: Review2024072Component },
   { path: "2024_july", component: Review202407Component },
   { path: "2024_june", component: Review202406Component },
-  { path: "**", component: Review202602Component },
+  { path: "**", component: Review202606 },
 ];
