@@ -74,3 +74,53 @@ strong {
 .mat-icon-button:hover .mat-button-focus-overlay {
   opacity: 1 !important;
 }
+
+.snow-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1000;
+}
+
+.snowflake {
+  position: absolute;
+  background-color: white;
+  border-radius: 50%;
+  pointer-events: none;
+  filter: blur(1px);
+}
+
+.fire-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 700px;
+  pointer-events: none;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.spark {
+  position: absolute;
+  border-radius: 50%;
+  background: #ffb300;
+  box-shadow:
+    0 0 4px #ff6a00,
+    0 0 8px #ff4500,
+    0 0 12px #ff2200;
+  pointer-events: none;
+}
+
+.fade-div {
+  opacity: 1;
+  transition: opacity 3s ease;
+}
+
+.fade-div.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
